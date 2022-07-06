@@ -1,0 +1,200 @@
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.exe
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.deps.json
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.json
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.dev.json
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.AssemblyReference.cache
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.AssemblyInfoInputs.cache
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.AssemblyInfo.cs
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.CoreCompileInputs.cache
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditChecklistModule.StaticWebAssets.Manifest.cache
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.RazorTargetAssemblyInfo.cache
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.CopyComplete
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.dll
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+C:\Project\audit\audit\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.genruntimeconfig.cache
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\log4net.config
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.exe
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.deps.json
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.json
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.dev.json
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\log4net.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.AssemblyReference.cache
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.AssemblyInfoInputs.cache
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.AssemblyInfo.cs
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.CoreCompileInputs.cache
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditChecklistModule.StaticWebAssets.Manifest.cache
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.RazorTargetAssemblyInfo.cache
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.CopyComplete
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.dll
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+D:\New folder\AuditChecklistModule\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.genruntimeconfig.cache
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\log4net.config
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.exe
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.deps.json
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.json
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.dev.json
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\log4net.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\AuditChecklistModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.AssemblyReference.cache
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.AssemblyInfoInputs.cache
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.AssemblyInfo.cs
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.CoreCompileInputs.cache
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditChecklistModule.StaticWebAssets.Manifest.cache
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.RazorTargetAssemblyInfo.cache
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.CopyComplete
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.dll
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+D:\New folder\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.genruntimeconfig.cache
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\log4net.config
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.exe
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.deps.json
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.json
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.runtimeconfig.dev.json
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.AssemblyReference.cache
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.AssemblyInfoInputs.cache
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.AssemblyInfo.cs
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.CoreCompileInputs.cache
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.MvcApplicationPartsAssemblyInfo.cs
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.MvcApplicationPartsAssemblyInfo.cache
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditChecklistModule.StaticWebAssets.Manifest.cache
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.RazorTargetAssemblyInfo.cache
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.csproj.CopyComplete
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.dll
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.pdb
+D:\Pod3AuditManagementSystem\AuditChecklistModule\obj\Debug\netcoreapp3.1\AuditChecklistModule.genruntimeconfig.cache

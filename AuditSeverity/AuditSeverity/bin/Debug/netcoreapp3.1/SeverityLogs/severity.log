@@ -1,0 +1,118 @@
+INFO  12:14:27 Application started. Press Ctrl+C to shut down.
+INFO  12:14:27 Application started. Press Ctrl+C to shut down.
+INFO  12:14:27 Hosting environment: Development
+INFO  12:14:27 Hosting environment: Development
+INFO  12:14:27 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  12:14:27 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  12:15:52 Application started. Press Ctrl+C to shut down.
+INFO  12:15:52 Application started. Press Ctrl+C to shut down.
+INFO  12:15:52 Hosting environment: Development
+INFO  12:15:52 Hosting environment: Development
+INFO  12:15:52 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  12:15:52 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  12:16:47 Application started. Press Ctrl+C to shut down.
+INFO  12:16:47 Application started. Press Ctrl+C to shut down.
+INFO  12:16:47 Hosting environment: Development
+INFO  12:16:47 Hosting environment: Development
+INFO  12:16:47 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  12:16:47 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  12:18:06 Application started. Press Ctrl+C to shut down.
+INFO  12:18:06 Application started. Press Ctrl+C to shut down.
+INFO  12:18:06 Hosting environment: Development
+INFO  12:18:06 Hosting environment: Development
+INFO  12:18:06 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  12:18:06 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  12:18:06  Http GET Request From: AuditSeverityController
+INFO  12:18:41 Application started. Press Ctrl+C to shut down.
+INFO  12:18:41 Application started. Press Ctrl+C to shut down.
+INFO  12:18:41 Hosting environment: Development
+INFO  12:18:41 Hosting environment: Development
+INFO  12:18:41 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  12:18:41 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  12:18:41  Http GET Request From: AuditSeverityController
+INFO  10:10:18 Application started. Press Ctrl+C to shut down.
+INFO  10:10:18 Application started. Press Ctrl+C to shut down.
+INFO  10:10:18 Hosting environment: Development
+INFO  10:10:18 Hosting environment: Development
+INFO  10:10:18 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  10:10:18 Content root path: C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity
+INFO  10:10:18  Http GET Request From: AuditSeverityController
+INFO  11:40:07 Application started. Press Ctrl+C to shut down.
+INFO  11:40:07 Application started. Press Ctrl+C to shut down.
+INFO  11:40:07 Hosting environment: Development
+INFO  11:40:07 Hosting environment: Development
+INFO  11:40:07 Content root path: C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity
+INFO  11:40:07 Content root path: C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity
+INFO  11:40:08  Http GET Request From: AuditSeverityController
+INFO  04:42:32 Application started. Press Ctrl+C to shut down.
+INFO  04:42:32 Application started. Press Ctrl+C to shut down.
+INFO  04:42:32 Hosting environment: Development
+INFO  04:42:32 Hosting environment: Development
+INFO  04:42:32 Content root path: C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity
+INFO  04:42:32 Content root path: C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity
+INFO  04:42:33  Http GET Request From: AuditSeverityController
+INFO  11:40:09 Application started. Press Ctrl+C to shut down.
+INFO  11:40:09 Application started. Press Ctrl+C to shut down.
+INFO  11:40:09 Hosting environment: Development
+INFO  11:40:09 Hosting environment: Development
+INFO  11:40:09 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  11:40:09 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  11:40:21  Http GET Request From: AuditSeverityController
+INFO  12:03:59  Http POST Request From: AuditSeverityController
+INFO  12:03:59  SeverityResponse Method of SeverityProvider Called 
+INFO  12:03:59  Response Method of SeverityRepo Called 
+ERROR 12:04:04 One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:29:04 Application started. Press Ctrl+C to shut down.
+INFO  12:29:04 Application started. Press Ctrl+C to shut down.
+INFO  12:29:04 Hosting environment: Development
+INFO  12:29:04 Hosting environment: Development
+INFO  12:29:04 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  12:29:04 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  12:31:33  Http POST Request From: AuditSeverityController
+INFO  12:32:34  SeverityResponse Method of SeverityProvider Called 
+INFO  12:32:44  Response Method of SeverityRepo Called 
+INFO  12:38:00 Application started. Press Ctrl+C to shut down.
+INFO  12:38:00 Application started. Press Ctrl+C to shut down.
+INFO  12:38:00 Hosting environment: Development
+INFO  12:38:00 Hosting environment: Development
+INFO  12:38:00 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  12:38:00 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  12:38:55  Http POST Request From: AuditSeverityController
+INFO  12:38:58  SeverityResponse Method of SeverityProvider Called 
+INFO  12:38:58  Response Method of SeverityRepo Called 
+ERROR 12:39:02 One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ERROR 12:40:50 Object reference not set to an instance of an object.
+INFO  12:41:19  Http GET Request From: AuditSeverityController
+INFO  12:43:23 Application started. Press Ctrl+C to shut down.
+INFO  12:43:23 Application started. Press Ctrl+C to shut down.
+INFO  12:43:23 Hosting environment: Development
+INFO  12:43:23 Hosting environment: Development
+INFO  12:43:23 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  12:43:23 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  12:44:17  Http POST Request From: AuditSeverityController
+INFO  12:44:42  SeverityResponse Method of SeverityProvider Called 
+INFO  12:45:06  Response Method of SeverityRepo Called 
+INFO  12:46:51 Application started. Press Ctrl+C to shut down.
+INFO  12:46:51 Application started. Press Ctrl+C to shut down.
+INFO  12:46:51 Hosting environment: Development
+INFO  12:46:51 Hosting environment: Development
+INFO  12:46:51 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  12:46:51 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  12:47:38  Http POST Request From: AuditSeverityController
+INFO  12:47:57  SeverityResponse Method of SeverityProvider Called 
+INFO  12:48:43  Response Method of SeverityRepo Called 
+INFO  12:59:15  Http POST Request From: AuditSeverityController
+INFO  12:59:15  SeverityResponse Method of SeverityProvider Called 
+INFO  12:59:15  Response Method of SeverityRepo Called 
+INFO  12:59:27  Http POST Request From: AuditSeverityController
+INFO  12:59:27  SeverityResponse Method of SeverityProvider Called 
+INFO  12:59:27  Response Method of SeverityRepo Called 
+INFO  01:55:37 Application started. Press Ctrl+C to shut down.
+INFO  01:55:37 Application started. Press Ctrl+C to shut down.
+INFO  01:55:37 Hosting environment: Development
+INFO  01:55:37 Hosting environment: Development
+INFO  01:55:37 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  01:55:37 Content root path: C:\vendhan\FinalModule\AuditSeverity\AuditSeverity
+INFO  01:58:03  Http POST Request From: AuditSeverityController
+INFO  01:58:03  SeverityResponse Method of SeverityProvider Called 
+INFO  01:58:03  Response Method of SeverityRepo Called 

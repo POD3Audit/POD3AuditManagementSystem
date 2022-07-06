@@ -1,0 +1,160 @@
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+D:\Work & Study\MFPE\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
+D:\Work & Study\MFPE\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.dev.json
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.dev.json
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+C:\Users\2106472\Downloads\MFPE-main\MFPE-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.dev.json
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Project\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+C:\Project\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.dev.json
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\New folder\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+D:\New folder\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.dev.json
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+D:\Pod3AuditManagementSystem\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache

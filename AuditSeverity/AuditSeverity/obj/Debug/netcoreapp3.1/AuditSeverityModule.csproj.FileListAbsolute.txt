@@ -1,0 +1,300 @@
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.exe
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.deps.json
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.json
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.dev.json
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.AssemblyReference.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfoInputs.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfo.cs
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CoreCompileInputs.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverityModule.StaticWebAssets.Manifest.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.RazorTargetAssemblyInfo.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CopyComplete
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.dll
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.genruntimeconfig.cache
+C:\Users\2155918\OneDrive - Cognizant\Desktop\vendhanproject\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.exe
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.deps.json
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.json
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.dev.json
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.AssemblyReference.cache
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfoInputs.cache
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfo.cs
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CoreCompileInputs.cache
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverityModule.StaticWebAssets.Manifest.cache
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.RazorTargetAssemblyInfo.cache
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CopyComplete
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.dll
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+C:\Users\2155825\Downloads\NE\NE\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.genruntimeconfig.cache
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.config
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.exe
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.deps.json
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.json
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.dev.json
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.AssemblyReference.cache
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfoInputs.cache
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfo.cs
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CoreCompileInputs.cache
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cs
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cache
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverityModule.StaticWebAssets.Manifest.cache
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.RazorTargetAssemblyInfo.cache
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CopyComplete
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.dll
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+C:\vendhan\FinalModule\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.genruntimeconfig.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.exe
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.deps.json
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.json
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.dev.json
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.AssemblyReference.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfoInputs.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfo.cs
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CoreCompileInputs.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverityModule.StaticWebAssets.Manifest.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.RazorTargetAssemblyInfo.cache
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CopyComplete
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.dll
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+C:\Users\2106472\Downloads\auditbench&severity\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.genruntimeconfig.cache
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.config
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.exe
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.deps.json
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.json
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.dev.json
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.AssemblyReference.cache
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfoInputs.cache
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfo.cs
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CoreCompileInputs.cache
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverityModule.StaticWebAssets.Manifest.cache
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.RazorTargetAssemblyInfo.cache
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CopyComplete
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.dll
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+D:\New folder\auditbench&severity\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.genruntimeconfig.cache
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.config
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.exe
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.deps.json
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.json
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.runtimeconfig.dev.json
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.AssemblyReference.cache
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfoInputs.cache
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.AssemblyInfo.cs
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CoreCompileInputs.cache
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cs
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cache
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverityModule.StaticWebAssets.Manifest.cache
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.RazorTargetAssemblyInfo.cache
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.csproj.CopyComplete
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.dll
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.pdb
+D:\Pod3AuditManagementSystem\AuditSeverity\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverityModule.genruntimeconfig.cache

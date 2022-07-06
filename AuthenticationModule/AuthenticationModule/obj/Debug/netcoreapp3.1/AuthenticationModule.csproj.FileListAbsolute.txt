@@ -1,0 +1,165 @@
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.AssemblyReference.cache
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.AssemblyInfoInputs.cache
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.AssemblyInfo.cs
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.CoreCompileInputs.cache
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.MvcApplicationPartsAssemblyInfo.cs
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.MvcApplicationPartsAssemblyInfo.cache
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.exe
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.deps.json
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.runtimeconfig.json
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.runtimeconfig.dev.json
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.pdb
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticationModule.StaticWebAssets.Manifest.cache
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.RazorTargetAssemblyInfo.cache
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.CopyComplete
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.dll
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.pdb
+C:\vendhan\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.genruntimeconfig.cache
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.exe
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.deps.json
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.runtimeconfig.json
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.runtimeconfig.dev.json
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.pdb
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.AssemblyReference.cache
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.AssemblyInfoInputs.cache
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.AssemblyInfo.cs
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.CoreCompileInputs.cache
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticationModule.StaticWebAssets.Manifest.cache
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.RazorTargetAssemblyInfo.cache
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.CopyComplete
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.dll
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.pdb
+C:\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.genruntimeconfig.cache
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.exe
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.deps.json
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.runtimeconfig.json
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.runtimeconfig.dev.json
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.pdb
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.AssemblyReference.cache
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.AssemblyInfoInputs.cache
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.AssemblyInfo.cs
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.CoreCompileInputs.cache
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticationModule.StaticWebAssets.Manifest.cache
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.RazorTargetAssemblyInfo.cache
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.CopyComplete
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.dll
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.pdb
+C:\Users\2106472\Downloads\Project\Project\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.genruntimeconfig.cache
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.exe
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.deps.json
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.runtimeconfig.json
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.runtimeconfig.dev.json
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.pdb
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.AssemblyReference.cache
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.AssemblyInfoInputs.cache
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.AssemblyInfo.cs
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.CoreCompileInputs.cache
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticationModule.StaticWebAssets.Manifest.cache
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.RazorTargetAssemblyInfo.cache
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.CopyComplete
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.dll
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.pdb
+D:\New folder\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.genruntimeconfig.cache
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.exe
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.deps.json
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.runtimeconfig.json
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.runtimeconfig.dev.json
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\AuthenticationModule.pdb
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.AssemblyReference.cache
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.AssemblyInfoInputs.cache
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.AssemblyInfo.cs
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.CoreCompileInputs.cache
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.MvcApplicationPartsAssemblyInfo.cs
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.MvcApplicationPartsAssemblyInfo.cache
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\staticwebassets\AuthenticationModule.StaticWebAssets.Manifest.cache
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.RazorTargetAssemblyInfo.cache
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.csproj.CopyComplete
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.dll
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.pdb
+D:\Pod3AuditManagementSystem\AuthenticationModule\AuthenticationModule\obj\Debug\netcoreapp3.1\AuthenticationModule.genruntimeconfig.cache
